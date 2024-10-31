@@ -1,0 +1,70 @@
+body {
+    background-image: url(https://w0.peakpx.com/wallpaper/335/544/HD-wallpaper-elegant-black-929-abstract-dark-minimal-simple-sleek-theme.jpg);
+    font-family: "Libre Baskerville", serif;
+    margin: 0;
+    padding: 20px;
+    display: inline;
+    color: whitesmoke;
+}
+header {
+    text-align: center;
+   
+}
+
+.profilepic{
+    display: inline;
+    float: left;
+    border-radius: 50%;
+    width: 150px; 
+}
+
+.information{
+    margin-left: 150px;
+}
+
+.name{
+    font-size: 50px;
+    color: #9A7E6F;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+p, li {
+    line-height: 1.5;
+}
+
+.job, .degree {
+    margin-bottom: 10px;
+}
+
+.job h3, .degree h3 {
+    font-weight: bold;
+}
+
+.job h4, .degree h4 {
+    font-style: italic;
+}
+
+ul {
+    margin-left: 20px;
+    padding-left: 0;
+}
+
+h2{
+    font-size: 25px;
+    color: lightcyan;
+}
+
+section{
+    display: flex; 
+    gap: 30px;
+    padding: 50px;
+    background: rgba(76, 175, 80, 0.3)
+}
